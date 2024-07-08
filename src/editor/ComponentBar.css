@@ -1,0 +1,13 @@
+.component-bar {
+    /* Foreground, Background */
+    scrollbar-color: #525252 #d9d9d9;
+}
+.component-bar::-webkit-scrollbar {
+    width: 5px;
+}
+.component-bar::-webkit-scrollbar-thumb {
+    background: #525252;
+}
+.component-bar::-webkit-scrollbar-track {
+    background: #d9d9d9;
+}

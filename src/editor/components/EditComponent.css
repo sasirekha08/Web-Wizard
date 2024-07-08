@@ -1,0 +1,13 @@
+.edit-component {
+    /* Foreground, Background */
+    scrollbar-color: #525759 #c7c7c7;
+}
+.edit-component::-webkit-scrollbar {
+    width: 5px;
+}
+.edit-component::-webkit-scrollbar-thumb {
+    background: #525759;
+}
+.edit-component::-webkit-scrollbar-track {
+    background: #c7c7c7;
+}
