@@ -23,7 +23,7 @@ const Header = ({
                 </div> */}
                 <Link to='/'>
                     <p className=' text-xl text-primaryColor uppercase'>
-                        <span className='text-white font-bold '>Web</span> Craft
+                        <span className='text-white font-bold '>Web</span> Wizard
                     </p>
                 </Link>
             </div>
